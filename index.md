@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Real Estate County Parcels
 
 [County Parcel Data](/sample_page)
-<img src="pdf/parcel.pdf?raw=true"/>
+<img src="images/parcel.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
