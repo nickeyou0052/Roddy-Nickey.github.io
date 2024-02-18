@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[County Parcel Data](/sample_page)
 <img src="pdf/parcel.pdf?raw=true"/>
 
 ---
