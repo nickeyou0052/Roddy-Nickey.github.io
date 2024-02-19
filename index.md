@@ -5,11 +5,11 @@
 ### MBCI Real Estate Parcels
 
 [County Parcel Data](/Parcel)
-<img src="images/parcel.jpg?raw=true"/>
+<img src="pdf/parcel.pdf?raw=true"/>
 
 ---
 [MBCI Boundaries](/MBCILocatiomappdf)
-<img src="MBCI Location Map.pdf?raw=true"/>
+<img src="pdf/MBCI Location Map.pdf?raw=true"/>
 
 ---
 [MBCI Website](http:www.choctaw.org/)
