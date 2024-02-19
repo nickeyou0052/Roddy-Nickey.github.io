@@ -12,7 +12,7 @@
 <img src="images/MBCI Location Map.jpg?raw=true"/>
 
 ---
-[Choctaw Topo Map]
+[Choctaw Topo Map](topo)
 <img src="images/Choctaw.jpg?raw=true"/>
 
 ---
