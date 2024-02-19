@@ -12,7 +12,7 @@
 <img src="MBCI Location Map.pdf?raw=true"/>
 
 ---
-[MBCI Website](http://)
+[MBCI Website](http:www,choctaw.org/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
