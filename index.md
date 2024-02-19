@@ -8,7 +8,7 @@
 <img src="images/parcel.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[MBCI Boundaries](/pdf/MBCI%20Location%20Map.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
