@@ -5,7 +5,7 @@
 ### MBCI Real Estate Parcels
 
 [County Parcel Data](/Parcel)
-<img src="pdf/parcel?raw=true"/>
+<img src="pdf/parcel.pdf?raw=true"/>
 
 ---
 [MBCI Boundaries](/MBCILocatiomappdf)
