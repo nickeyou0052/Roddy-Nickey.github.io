@@ -8,11 +8,11 @@
 <img src="images/parcel.jpg?raw=true"/>
 
 ---
-[MBCI Boundaries](/pdf/MBCI Location ap.pdf)
+[MBCI Boundaries](MBCI%20Location%20Map.pdfpdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[MBCI Website](http://www.choctaw.org/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
