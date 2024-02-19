@@ -12,8 +12,8 @@
 <img src="images/MBCI Location Map.jpg?raw=true"/>
 
 ---
-[MBCI Website]
-(http:www.choctaw.org/)
+[Choctaw Topo Map]
+<img src="images/Choctaw.jpg?raw=true"/>
 
 ---
 
