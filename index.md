@@ -4,7 +4,7 @@
 
 ### MBCI Real Estate Parcels
 
-[County Parcel Data](/Parcel)
+[County Parcel
 <img src="images/parcel.jpg?raw=true"/>
 
 ---
