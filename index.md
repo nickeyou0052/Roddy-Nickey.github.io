@@ -16,6 +16,7 @@
 <img src="images/Choctaw.jpg?raw=true"/>
 
 ---
+[![GeoCoding Story Map](images/StoryMap.jpg)](https://storymaps.arcgis.com/stories/b7ad90c74f0d4426a9640af2917a9f49)
 
 ### Category Name 2
 
