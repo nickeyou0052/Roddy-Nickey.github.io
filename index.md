@@ -2,7 +2,7 @@
 
 ---
 
-### MBCI Real Estate Parcels
+### MBCI Real Estate 
 
 County Parcel 
 <img src="images/parcel.jpg?raw=true"/>
