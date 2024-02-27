@@ -4,15 +4,15 @@
 
 ### MBCI Real Estate Parcels
 
-[County Parcel Data](/Parcel)
+[County Parcel 
 <img src="images/parcel.jpg?raw=true"/>
 
 ---
-[MBCI Boundaries](/MBCILocatiomappdf)
+[MBCI Boundaries]
 <img src="images/MBCI Location Map.jpg?raw=true"/>
 
 ---
-[Choctaw Topo Map](/topo)
+[Choctaw Topo Map]
 <img src="images/Choctaw.jpg?raw=true"/>
 
 ---
