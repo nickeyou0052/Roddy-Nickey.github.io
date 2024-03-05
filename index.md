@@ -12,7 +12,7 @@ A Location Map showing Tribal Boundaries is a map that illustrates the geographi
 <img src="images/MBCI Location Map.jpg?raw=true"/>
 
 ---
-Choctaw - Topo Map is a detailed and accurate representation of the Earth's surface features. These maps use contour lines to show the shape and elevation of the land, providing information about the terrain, including hills, valleys, rivers, lakes, forests, and other physical features. Topographic maps are commonly used by hikers, backpackers, surveyors, land planners, and geologists to navigate terrain, plan outdoor activities, assess land for construction or development, and study natural landscapes
+Topo Map of Choctaw, MS is a detailed and accurate representation of the Earth's surface features. These maps use contour lines to show the shape and elevation of the land, providing information about the terrain, including hills, valleys, rivers, lakes, forests, and other physical features. Topographic maps are commonly used by hikers, backpackers, surveyors, land planners, and geologists to navigate terrain, plan outdoor activities, assess land for construction or development, and study natural landscapes. 
 <img src="images/Choctaw.jpg?raw=true"/>
 
 ---
