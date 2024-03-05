@@ -8,7 +8,7 @@ County Parcel Maps are useful for property owners, real estate agents, surveyors
 <img src="images/parcel.jpg?raw=true"/>
 
 ---
-MBCI Boundaries
+A Location Map showing Tribal Boundaries is a map that illustrates the geographic boundaries of tribal lands or territories belonging to indigenous groups or Native American tribes. These maps are essential for showcasing the historical and current extent of tribal territories and are useful for tribal governments, researchers, government agencies, and organizations working with or on behalf of indigenous communities. They provide valuable information regarding the jurisdictional and territorial boundaries of different tribal groups within a specific region or area.
 <img src="images/MBCI Location Map.jpg?raw=true"/>
 
 ---
