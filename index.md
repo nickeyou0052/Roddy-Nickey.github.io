@@ -20,24 +20,13 @@ Topo Map - Choctaw, MS.
 Topo Map of Choctaw, MS is a detailed and accurate representation of the Earth's surface features. These maps use contour lines to show the shape and elevation of the land, providing information about the terrain, including hills, valleys, rivers, lakes, forests, and other physical features. Topographic maps are commonly used by hikers, backpackers, surveyors, land planners, and geologists to navigate terrain, plan outdoor activities, assess land for construction or development, and study natural landscapes. 
 <img src="images/Choctaw.jpg?raw=true"/>
 
----
-Story Map - Geocoding Addresses in Choctaw, MS (https://storymaps.arcgis.com/stories/b7ad90c74f0d4426a9640af2917a9f49)
+### University of Oklahoma School Projects
+
+- Story Map - Geocoding Addresses in Choctaw, MS (https://storymaps.arcgis.com/stories/b7ad90c74f0d4426a9640af2917a9f49)
 
 ![GeoCoding Story Map](images/StoryMap.JPG)
 
-
-### Category Name 2
-
 - [Google Engine Earth - Landsat1 ](https://code.earthengine.google.com/f79787f5ae2091bd99f512c2691b2c29)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
