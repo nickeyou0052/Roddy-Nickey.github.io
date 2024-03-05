@@ -2,16 +2,21 @@
 
 ---
 
-### MBCI Real Estate
+MBCI Real Estate
 
 County Parcel Maps are useful for property owners, real estate agents, surveyors, and government officials to determine ownership, boundaries, and other characteristics of land within a specific county.
 <img src="images/parcel.jpg?raw=true"/>
 
 ---
+
+MBCI Location Map
+
 A Location Map showing Tribal Boundaries is a map that illustrates the geographic boundaries of tribal lands or territories belonging to Mississippi Band of Choctaw Indians. These maps are essential for showcasing the historical and current extent of tribal territories and are useful for tribal governments, researchers, government agencies, and organizations working with or on behalf of indigenous communities. They provide valuable information regarding the jurisdictional and territorial boundaries of a specific region or area.
 <img src="images/MBCI Location Map.jpg?raw=true"/>
 
 ---
+Topo Map - Choctaw, MS.
+
 Topo Map of Choctaw, MS is a detailed and accurate representation of the Earth's surface features. These maps use contour lines to show the shape and elevation of the land, providing information about the terrain, including hills, valleys, rivers, lakes, forests, and other physical features. Topographic maps are commonly used by hikers, backpackers, surveyors, land planners, and geologists to navigate terrain, plan outdoor activities, assess land for construction or development, and study natural landscapes. 
 <img src="images/Choctaw.jpg?raw=true"/>
 
