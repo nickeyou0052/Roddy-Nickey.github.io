@@ -25,7 +25,7 @@ Topo Map of Choctaw, MS is a detailed and accurate representation of the Earth's
 
 ![GeoCoding Story Map](images/StoryMap.JPG)
 
-
+---
 ### University of Oklahoma School Projects
 
 - [Google Engine Earth - Display Image Information Using Landsat1 ](https://code.earthengine.google.com/f79787f5ae2091bd99f512c2691b2c29)
