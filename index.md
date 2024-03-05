@@ -21,8 +21,7 @@ Topo Map of Choctaw, MS is a detailed and accurate representation of the Earth's
 <img src="images/Choctaw.jpg?raw=true"/>
 
 ---
-**Story Map**
-- [Mapping and Geocoding Addresses in Choctaw, MS](https://storymaps.arcgis.com/stories/b7ad90c74f0d4426a9640af2917a9f49)
+- [Story Map Mapping and Geocoding Addresses in Choctaw, MS](https://storymaps.arcgis.com/stories/b7ad90c74f0d4426a9640af2917a9f49)
   
   [![GeoCoding Story Map](images/StoryMap.JPG)]
 
